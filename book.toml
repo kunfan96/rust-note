@@ -1,0 +1,6 @@
+[book]
+authors = ["Glay"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "我的Rust复习笔记"
