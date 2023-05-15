@@ -2,22 +2,14 @@
 
 > 鲁迅说过：“好记性不如烂笔头，学东西也做好笔记”
 
-开这个 PROJ 主要是为了给我那杂乱无章的 rust 知识做一份梳理，充当一份备忘录的功能。
+开这个 PROJECT 主要是为了给我那杂乱无章的 RUST 知识做一份梳理，充当一份备忘录的功能。
 
-感觉敲了这么久的代码，一直深陷在一个 LOOP。每次学一门东西很多时候都是半途而废，囫囵吞枣却洋洋得意，潇潇洒洒数载，虽然没有得到什么苦果，但是这种恶习绝不能留。
+以下是我学 Rust 的几个重要途径（持续更新中...）:
 
-时代在变化，人们的思维/大环境/各种交错复杂的人事物在前进，可以预料到一场大变革正在来临，这时候自己如果没有做好准备，必然会被淘汰，车子/房子/妹子怎么办???
+[1. Rust 语言圣经](https://course.rs/about-book.html)
 
-迎难而上，不怕困难，不怕失败，加油吧，自己。
+[2. Rust 程序语言设计](https://kaisery.github.io/trpl-zh-cn/)
 
----
+[3. 这个 B 站视频教程很不错，推荐一下，是 2 的视频版，觉得看书枯燥可以试试...](https://www.bilibili.com/video/BV1hp4y1k7SV/?spm_id_from=333.788.recommend_more_video.0&vd_source=4e58e9f5189db560a6838eca8f86969d)
 
-> Lu Xun once said, "A good memory is no match for a lousy pen. Taking notes while learning is crucial."
-
-The purpose of starting this project is to organize my messy knowledge of Rust, serving as a memo for myself.
-
-After coding for so long, I realize that I have been trapped in a loop. Often, I would give up halfway through learning something, thinking I understood it when I didn't, and this bad habit cannot continue.
-
-As times change, people's thinking, the environment, and all kinds of complicated human events are advancing. It can be predicted that a big change is coming, and if I am not prepared, I will undoubtedly be eliminated. What about my car, my house, and my girlfriend?
-
-Let's face challenges, not afraid of difficulties or failures, and keep going. Come on, myself.
+我学习 RUST 就靠上面几个链接 + Chatgpt + BingAI。
