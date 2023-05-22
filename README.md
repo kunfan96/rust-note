@@ -12,4 +12,28 @@
 
 [3. 这个 B 站视频教程很不错，推荐一下，是 2 的视频版，觉得看书枯燥可以试试...](https://www.bilibili.com/video/BV1hp4y1k7SV/?spm_id_from=333.788.recommend_more_video.0&vd_source=4e58e9f5189db560a6838eca8f86969d)
 
-我学习 RUST 就靠上面几个链接 + Chatgpt + BingAI。
+我学习 RUST 就靠上面几个链接 + Chatgpt + BingAI(更加推荐 BingAI)。
+
+# GET-START
+
+1. git clone 本仓库
+
+```shell
+git clone https://github.com/kunfan96/rust-note.git
+```
+
+2. 下载 RUST 插件依赖
+
+```shell
+cargo install mdbook
+```
+
+3. 运行项目
+
+```rust
+mdbook serve -p 3001
+```
+
+4. 打开[该地址](http://localhost:3001)
+
+5. 如果可以点个 ⭐️
