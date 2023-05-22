@@ -24,8 +24,16 @@ git clone https://github.com/kunfan96/rust-note.git
 
 2. 下载 RUST 插件依赖
 
+运行项目
+
 ```shell
 cargo install mdbook
+```
+
+测试 demo 代码
+
+```shell
+cargo install cargo-script
 ```
 
 3. 运行项目
@@ -34,6 +42,12 @@ cargo install mdbook
 mdbook serve -p 3001
 ```
 
-4. 打开[该地址](http://localhost:3001)
+4. 测试代码
 
-5. 如果可以点个 ⭐️
+```
+cargo script demo/xxx.rs
+```
+
+5. 打开[该地址](http://localhost:3001)
+
+6. 如果可以点个 ⭐️
